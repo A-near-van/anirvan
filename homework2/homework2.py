@@ -41,7 +41,7 @@
 
 # ~/python_decal_fa25/course_assignments/homework2
 
-#../../course_assignments/homework
+#../../course_assignments/homework2
 
 # 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
 
