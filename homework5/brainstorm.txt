@@ -1,0 +1,13 @@
+File: brainstorm.txt
+
+1. Variable stars, rotational dynamics, magnetic forces and energies, Newton's method, 3d integrals
+
+2. AAVSO has a directory of software designed to do data analysis for variable stars, including tools to plot phase diagrams and light curves of variable stars.
+
+I found a library called pygyro which is a library for 'parallel gyro-kinetic simulations'. This would be particularly helpful for modeling a spinning top or simple gyroscope, which incorporates a lot of interesting rotational dynamics.
+
+I found an article on medium.com that has a ton of useful resources on modeling inductors in python with sample code. This will be very helpful if I want to model a circuit with an inductor, such as an RLC circuit.
+
+3. For modeling an inductor in a circuit (which would be the goal of the project), I can write some for loops with conditionals regarding the properties of the inductor to simulate the change in an inductor by using functions from relevant libraries. Storing the values of the inductor in a dictionary will be important. 
+
+4. My ambitious version of a project for inductor modeling would be to completely visualize a circuit with resistors, capacitors, and inductors given an initial voltage, resistance, inductance, etc with other numerical properties like current displayed throughout the simulation. A simpler version would be to create some graphs of inductance over time for an inductor in an LC circuit. 
